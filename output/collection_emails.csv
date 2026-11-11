@@ -1,0 +1,31 @@
+invoice_id,to,subject,body
+INV-202609-HAL,Internal: Finance,Apply unreferenced payment PAY-0011 to INV-202609-HAL,"Payment PAY-0011 from Halcyon Bank (EUR 15,733.00) arrived without an invoice reference.
+Clearer and amount match open invoice INV-202609-HAL.
+Please confirm and apply the payment, then close the item. No chaser needed."
+INV-202607-TAR,Internal: Sales / Client Management,Rate dispute on INV-202607-TAR (Tamsin & Rowe) - please confirm rates,"Tamsin & Rowe has short-paid INV-202607-TAR; EUR 697.86 is still open (69 days overdue).
+They say the rates billed differ from their schedule.
+Please confirm the agreed rates so we can either re-bill or request the balance."
+INV-202608-MER,Meridian Capital Markets,Overdue: INV-202608-MER - payment promised for 2026-10-20 not received,"Dear Meridian Capital Markets team,
+
+On our last call you confirmed full payment of INV-202608-MER by 2026-10-20.
+As of today the full payment has not been received, and EUR 13,806.50 remains outstanding (40 days overdue).
+Please arrange payment this week or let us know what is blocking it.
+
+Kind regards,
+Trading Operations - Accounts Receivable"
+INV-202608-VAL,Valemont Bank,Overdue: INV-202608-VAL - payment promised for 2026-10-15 not received,"Dear Valemont Bank team,
+
+On our last call you confirmed full payment of INV-202608-VAL by 2026-10-15.
+As of today the full payment has not been received, and EUR 3,248.75 remains outstanding (40 days overdue).
+Please arrange payment this week or let us know what is blocking it.
+
+Kind regards,
+Trading Operations - Accounts Receivable"
+INV-202609-MER,Meridian Capital Markets,Payment reminder: INV-202609-MER (10 days overdue),"Dear Meridian Capital Markets team,
+
+Our records show EUR 13,493.50 open on invoice INV-202609-MER, now 10 days past due.
+Could you confirm when we can expect payment?
+
+Kind regards,
+Trading Operations - Accounts Receivable"
+INV-202609-VAL,No email,Hold: Valemont Bank promised payment of INV-202609-VAL by 2026-11-15,No contact until 2026-11-15. Re-check the payment on that date.

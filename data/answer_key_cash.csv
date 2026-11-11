@@ -1,0 +1,11 @@
+item_id,issue_type,detail
+INV-202607-TAR,SHORT_PAID,paid 10933.14 of 11631.00; clearer disputes Eurex option rates
+INV-202608-HAL,PAID_LATE,"due 2026-10-01, paid 2026-10-20 (promise kept)"
+INV-202608-MER,UNPAID_OVERDUE,nothing received; promise for 2026-10-20 broken
+INV-202608-VAL,SHORT_PAID,one instalment of 3248.75 received; promised full payment by 2026-10-15 (broken)
+INV-202609-HAL,UNAPPLIED_CASH_MATCH,"looks unpaid, but unreferenced payment of the exact amount arrived 2026-11-05"
+INV-202609-MER,UNPAID_OVERDUE,nothing received
+INV-202609-VAL,UNPAID_OVERDUE,nothing received; open promise for 2026-11-15 (not yet broken)
+PAY-0011,UNAPPLIED_CASH,payment with no invoice reference; amount matches INV-202609-HAL
+INV-202608-MER,BROKEN_PROMISE,"promised 2026-10-20, nothing received"
+INV-202608-VAL,BROKEN_PROMISE,"promised full amount by 2026-10-15, only half received"

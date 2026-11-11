@@ -1,0 +1,9 @@
+log_id,clearer_code,invoice_id,contact_date,channel,contact_person,outcome,promised_date,promised_amount_eur,notes
+LOG-001,TAR,INV-202607-TAR,2026-09-08,Email,Priya Nandakumar,Disputed,,,Short-paid; says Eurex option rates differ from their schedule
+LOG-002,HAL,INV-202608-HAL,2026-10-06,Call,Oskar Lind,Promised,2026-10-20,12559.50,Approval delayed internally
+LOG-003,MER,INV-202608-MER,2026-10-05,Call,Daniel Okafor,Promised,2026-10-20,13806.50,Will pay in next payment run
+LOG-004,VAL,INV-202608-VAL,2026-10-08,Call,Marta Kowalczyk,Promised,2026-10-15,6497.50,Promised full amount
+LOG-005,MER,INV-202608-MER,2026-10-23,Email,Daniel Okafor,No response,,,Reminder sent
+LOG-006,MER,INV-202609-MER,2026-11-03,Email,Daniel Okafor,No response,,,Reminder sent
+LOG-007,HAL,INV-202609-HAL,2026-11-03,Call,Oskar Lind,Says paid,,,Says payment sent 2026-11-05 without invoice reference
+LOG-008,VAL,INV-202609-VAL,2026-11-04,Call,Marta Kowalczyk,Promised,2026-11-15,5723.00,Promised full amount

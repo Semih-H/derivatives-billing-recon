@@ -1,0 +1,81 @@
+trade_id,break_type,detail
+T20260700060,REALLOCATION,clearer NBS/NBS-ACC-03 -> MER/MER-ACC-01
+T20260700073,RATE_MISMATCH,internal 0.60 vs clearer 0.55 EUR/contract
+T20260700077,QTY_MISMATCH,internal 150 vs clearer 80 contracts
+T20260700089,RATE_MISMATCH,internal 0.40 vs clearer 0.30 EUR/contract
+T20260700090,REALLOCATION,account VAL-ACC-03 -> VAL-ACC-01 (same clearer)
+T20260700102,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260700133,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260700139,QTY_MISMATCH,internal 320 vs clearer 390 contracts
+T20260700175,REALLOCATION,account TAR-ACC-03 -> TAR-ACC-02 (same clearer)
+T20260700282,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260700306,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260700328,QTY_MISMATCH,internal 320 vs clearer 430 contracts
+T20260700457,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260700471,RATE_MISMATCH,internal 0.55 vs clearer 0.45 EUR/contract
+T20260700473,RATE_MISMATCH,internal 0.40 vs clearer 0.25 EUR/contract
+T20260700517,RATE_MISMATCH,internal 0.55 vs clearer 0.50 EUR/contract
+T20260800527,RATE_MISMATCH,internal 0.45 vs clearer 0.35 EUR/contract
+T20260800582,RATE_MISMATCH,internal 0.90 vs clearer 0.85 EUR/contract
+T20260800587,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260800601,RATE_MISMATCH,internal 0.35 vs clearer 0.20 EUR/contract
+T20260800622,QTY_MISMATCH,internal 70 vs clearer 90 contracts
+T20260800633,RATE_MISMATCH,internal 0.55 vs clearer 0.50 EUR/contract
+T20260800635,QTY_MISMATCH,internal 70 vs clearer 40 contracts
+T20260800651,REALLOCATION,clearer NBS/NBS-ACC-02 -> HAL/HAL-ACC-03
+T20260800681,RATE_MISMATCH,internal 0.40 vs clearer 0.30 EUR/contract
+T20260800684,QTY_MISMATCH,internal 40 vs clearer 50 contracts
+T20260800707,QTY_MISMATCH,internal 100 vs clearer 70 contracts
+T20260800724,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260800732,REALLOCATION,account NBS-ACC-02 -> NBS-ACC-01 (same clearer)
+T20260800738,REALLOCATION,clearer NBS/NBS-ACC-02 -> HAL/HAL-ACC-01
+T20260800743,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260800761,RATE_MISMATCH,internal 0.40 vs clearer 0.25 EUR/contract
+T20260800809,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260800875,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260800881,RATE_MISMATCH,internal 0.75 vs clearer 0.70 EUR/contract
+T20260800991,REALLOCATION,clearer NBS/NBS-ACC-03 -> VAL/VAL-ACC-02
+T20260800992,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260800996,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260901007,QTY_MISMATCH,internal 420 vs clearer 330 contracts
+T20260901024,QTY_MISMATCH,internal 130 vs clearer 150 contracts
+T20260901158,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20260901243,REALLOCATION,account NBS-ACC-01 -> NBS-ACC-03 (same clearer)
+T20260901252,REALLOCATION,account HAL-ACC-02 -> HAL-ACC-01 (same clearer)
+T20260901282,QTY_MISMATCH,internal 170 vs clearer 220 contracts
+T20260901287,REALLOCATION,account NBS-ACC-01 -> NBS-ACC-03 (same clearer)
+T20260901297,REALLOCATION,clearer HAL/HAL-ACC-02 -> VAL/VAL-ACC-01
+T20260901334,RATE_MISMATCH,internal 0.90 vs clearer 0.75 EUR/contract
+T20260901432,REALLOCATION,account NBS-ACC-02 -> NBS-ACC-01 (same clearer)
+T20260901437,REALLOCATION,account TAR-ACC-01 -> TAR-ACC-02 (same clearer)
+T20260901438,QTY_MISMATCH,internal 100 vs clearer 70 contracts
+T20260901446,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001501,RATE_MISMATCH,internal 0.85 vs clearer 0.80 EUR/contract
+T20261001513,RATE_MISMATCH,internal 0.90 vs clearer 0.85 EUR/contract
+T20261001515,REALLOCATION,clearer MER/MER-ACC-01 -> NBS/NBS-ACC-02
+T20261001516,QTY_MISMATCH,internal 130 vs clearer 180 contracts
+T20261001519,REALLOCATION,account MER-ACC-02 -> MER-ACC-03 (same clearer)
+T20261001561,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001570,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001628,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001652,QTY_MISMATCH,internal 50 vs clearer 60 contracts
+T20261001687,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001699,RATE_MISMATCH,internal 0.40 vs clearer 0.35 EUR/contract
+T20261001709,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001766,RATE_MISMATCH,internal 0.40 vs clearer 0.30 EUR/contract
+T20261001774,RATE_MISMATCH,internal 0.90 vs clearer 0.80 EUR/contract
+T20261001878,RATE_MISMATCH,internal 0.55 vs clearer 0.45 EUR/contract
+T20261001916,RATE_MISMATCH,internal 0.60 vs clearer 0.55 EUR/contract
+T20261001936,MISSING_IN_CLEARER,"on internal blotter, not on clearer statement"
+T20261001942,QTY_MISMATCH,internal 360 vs clearer 470 contracts
+T20261001956,QTY_MISMATCH,internal 60 vs clearer 40 contracts
+X20260790002,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20260790005,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20260890003,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20260990000,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20260990001,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20261090004,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20261090006,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20261090007,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20261090008,MISSING_INTERNAL,"on clearer statement, not on internal blotter"
+X20261090009,MISSING_INTERNAL,"on clearer statement, not on internal blotter"

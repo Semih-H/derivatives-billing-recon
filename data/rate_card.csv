@@ -1,0 +1,10 @@
+product_code,product_name,exchange,instrument_type,asset_class,rate_per_contract_eur
+SR3,3M SOFR Future,CME,Future,Fixed income,0.45
+ZN,10Y T-Note Future,CME,Future,Fixed income,0.6
+OZN,10Y T-Note Option,CME,Option,Fixed income,0.85
+I,3M Euribor Future,ICE,Future,Fixed income,0.4
+SO3,3M SONIA Future,ICE,Future,Fixed income,0.4
+FGBL,Euro-Bund Future,Eurex,Future,Fixed income,0.55
+OGBL,Euro-Bund Option,Eurex,Option,Fixed income,0.9
+FESX,Euro Stoxx 50 Future,Eurex,Future,Equity,0.35
+OESX,Euro Stoxx 50 Option,Eurex,Option,Equity,0.75
