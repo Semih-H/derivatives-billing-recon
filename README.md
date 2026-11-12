@@ -31,7 +31,7 @@ Three Power BI pages. A clearer slicer is synced across all of them. The full re
 ![Reconciliation](images/01_reconciliation.png)
 
 **2. Receivables**: aging heat map by clearer, DSO against the 30-day terms, invoice status
-![Receivables](images/02_receivables.png)
+![Receivables](images/02 receivables.png)
 
 **3. Collection worklist**: overdue invoices with a priority and a next action
 ![Collection worklist](images/03_collection_worklist.png)
