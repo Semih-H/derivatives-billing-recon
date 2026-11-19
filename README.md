@@ -14,6 +14,10 @@ A trading-operations workflow for a broker that earns a fee per contract on exch
 ![Trade validation](images/validation_trades.png)
 ![Cash validation](images/validation_cash.png)
 
+<img src="images/validation_trades.png" alt="Trade validation" width="400" />
+<img src="images/validation_cash.png" alt="Cash validation" width="400" />
+
+
 ## Key findings (as of 10 Nov 2026)
 
 - **80 trade breaks worth €5,012.50** in absolute fee differences. The largest group is trades billed by us but missing from the clearer statement (€3,123).
