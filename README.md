@@ -1,6 +1,6 @@
 # Derivatives Billing Reconciliation & Receivables
 
-A trading-operations workflow for a broker that earns a fee per contract on exchange-traded futures and options and bills its clearing banks every month. The project reconciles trades against clearer statements, matches cash to invoices, ages the receivables and turns the results into a prioritised collection worklist.
+A trading-operations workflow for a broker that earns a fee per contract on exchange-traded futures and options, and bills its clearing banks every month. The project reconciles trades against clearer statements, matches cash to invoices, ages the receivables and turns the results into a prioritised collection worklist.
 
 **PostgreSQL · Power BI · Python (pandas)**
 
