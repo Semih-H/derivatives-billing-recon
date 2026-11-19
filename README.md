@@ -14,8 +14,8 @@ A trading-operations workflow for a broker that earns a fee per contract on exch
 ![Trade validation](images/validation_trades.png)
 ![Cash validation](images/validation_cash.png)
 
-<img src="images/validation_trades.png" alt="Trade validation" width="400" />
-<img src="images/validation_cash.png" alt="Cash validation" width="400" />
+<img src="images/validation_trades.png" alt="Trade validation" width="700" />
+<img src="images/validation_cash.png" alt="Cash validation" width="700" />
 
 
 ## Key findings (as of 10 Nov 2026)
