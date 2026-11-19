@@ -11,8 +11,8 @@ A trading-operations workflow for a broker that earns a fee per contract on exch
 | Trade breaks found vs planted answer key | **80 / 80 detected, 0 wrong type, 0 missed, 0 false alarms** |
 | Cash issues found vs planted answer key | **10 / 10 detected, 0 missed, 0 false alarms** |
 
-<img src="images/validation_trades.png" alt="Trade validation" width="750" />
-<img src="images/validation_cash.png" alt="Cash validation" width="750" />
+<img src="images/validation_trades.png" alt="Trade validation" width="730" />
+<img src="images/validation_cash.png" alt="Cash validation" width="730" />
 
 
 ## Key findings (as of 10 Nov 2026)
